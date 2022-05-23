@@ -3,10 +3,10 @@ This is an unprofessional work.
 The purpose is sharing with everybody who wants to approach to the vim world, my vimrc with 
 all the plugins that I installed and the key remaps that I have made.
 ## Contents
-1. [Build instruction](#Installation)
+1. [Build instructions](#Installation)
 ---
 
-## Build instructions <a> name="Installation"</a>
+## Build instructions <a name="Installation"></a>
 Unfortunately I couldn't upload my ".vim" folder because it is too heavy but I will write
 everything you need to install everything.
 1. Download the vimrc file and put it into your home directory, remembering to save it as
