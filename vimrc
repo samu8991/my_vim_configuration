@@ -16,7 +16,7 @@ set splitright
 set autochdir
 set relativenumber
 ":vim bar % | cw<CR>
-set rtp+=/home/voidjocker/.vim/bundle/Vundle.vim
+set rtp+=/path/to/home/.vim/bundle/Vundle.vim
 set rtp+=~/.vim/bundle/ctrlp.vim
 
 call vundle#begin()

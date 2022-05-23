@@ -6,7 +6,7 @@ all the plugins that I installed and the key remaps that I have made.
 1. [Build instruction](#Installation)
 ---
 
-## Build instructions <a name="Installation"</a>
+## Build instructions <a> name="Installation"</a>
 Unfortunately I couldn't upload my ".vim" folder because it is too heavy but I will write
 everything you need to install everything.
 1. Download the vimrc file and put it into your home directory, remembering to save it as
